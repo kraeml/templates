@@ -1,6 +1,6 @@
 [
   {
-    "title": "Registry",
+    "title": "RPI-Registry",
     "description": "Docker image registry",
     "logo": "https://cloudinovasi.id/assets/img/logos/registry.png",
     "image": "registry:latest",
